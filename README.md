@@ -140,7 +140,7 @@ All Rights Reserved.
 
 開発者
 
-K’s Family
+mazemon-rin
 
 患者自身の経験から、
 
