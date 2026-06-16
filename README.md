@@ -111,9 +111,6 @@
 
 公開ページ
 
-（GitHub Pages URLを記載）
-
-例：
 
 https://mazemon-rin.github.io/shinsatsu-sheet/
 
