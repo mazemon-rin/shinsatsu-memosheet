@@ -108,9 +108,7 @@ https://mazemon-rin.github.io/shinsatsu-memosheet/
 
 ## 著作権について
 
-Copyright © 2026 mazemon-rin
-
-All Rights Reserved.
+© 2026 mazemon-rin. 無断転載・複製・改変・再配布を禁じます
 
 本ソフトウェアおよび関連資料の著作権は作者に帰属します。
 
